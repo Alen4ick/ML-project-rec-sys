@@ -1,2 +1,5 @@
 catboost_info
 venv
+model
+dataframe.csv
+__pycache__
